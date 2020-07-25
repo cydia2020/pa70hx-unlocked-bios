@@ -1,4 +1,4 @@
-# Unlocked BIOS for Clevo PA70HS, PA70HP, PA71HS, PA71HP. (Seem to be the same machine)
+# Unlocked BIOS for Clevo PA70HS, PA70HP, PA71HS, PA71HP. (Same chassis different variant)
 Fully Featured BIOS for Clevo PA70Hx (Kabylake)
 
 The BIOS is a little buggy at the moment, but it should work fine overall.
